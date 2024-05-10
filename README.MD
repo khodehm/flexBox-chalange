@@ -13,7 +13,7 @@
 ‍‍‍```bash
 ## git add .
 ## git commit -m 'هر سرفصلی که دروست دارید اینجا بنویسید '
-## git push 
+## git push origin [YOUR BRANCH]
 ````
 **Tips:**
 -اگر−سوالی−داشتید−حتما−بپرسید  
